@@ -1,0 +1,16 @@
+/* Main window chrome; Qt Style Sheets, not browser CSS. */
+QFrame#appTitleBar {
+ background:qlineargradient(x1:0,y1:0,x2:1,y2:0,stop:0 #173b65,stop:1 #24588a);
+ border:0; border-bottom:1px solid #315f8f;
+}
+QLabel#appTitle { color:#f5f9ff; background:transparent; font-size:14px; font-weight:600; padding-left:14px; }
+QPushButton[windowControl="true"] {
+ background:transparent; color:#eef5ff; border:0; border-radius:0;
+ padding:0; min-width:46px; max-width:46px; min-height:38px; max-height:38px;
+ font-family:"Segoe UI Symbol"; font-size:17px;
+}
+QPushButton[windowControl="true"]:hover { background:#3b6b9a; }
+QPushButton[windowControl="true"]:pressed { background:#477cac; }
+QPushButton#windowClose:hover { background:#c9424b; color:white; }
+QPushButton#windowClose:pressed { background:#a82e39; }
+QFrame#appTitleBar[inactive="true"] { background:#52677e; border-bottom:1px solid #62768c; }

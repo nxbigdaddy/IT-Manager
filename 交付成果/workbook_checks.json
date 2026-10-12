@@ -1,0 +1,136 @@
+{
+  "format": "xlsx",
+  "verdict": "pass",
+  "checks": [
+    {
+      "id": "package",
+      "status": "pass"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "02\u4fe1\u606f\u6536\u96c6"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "10\u4efb\u52a1\u53f0\u8d26"
+    },
+    {
+      "id": "contains",
+      "status": "pass",
+      "text": "19\u586b\u5199\u793a\u4f8b"
+    },
+    {
+      "id": "count",
+      "status": "pass",
+      "expected": 20,
+      "actual": 20
+    }
+  ],
+  "summary": {
+    "sheets": [
+      {
+        "name": "00\u4f7f\u7528\u8bf4\u660e",
+        "cells": 34,
+        "formulas": 0
+      },
+      {
+        "name": "01_90\u5929\u8ba1\u5212",
+        "cells": 1665,
+        "formulas": 0
+      },
+      {
+        "name": "02\u4fe1\u606f\u6536\u96c6",
+        "cells": 1230,
+        "formulas": 0
+      },
+      {
+        "name": "03\u8bbf\u8c08\u7eaa\u8981",
+        "cells": 1178,
+        "formulas": 0
+      },
+      {
+        "name": "04\u7cfb\u7edf\u53f0\u8d26",
+        "cells": 773,
+        "formulas": 0
+      },
+      {
+        "name": "05\u8d44\u4ea7\u53f0\u8d26",
+        "cells": 2196,
+        "formulas": 0
+      },
+      {
+        "name": "06\u6743\u9650\u590d\u6838",
+        "cells": 1210,
+        "formulas": 0
+      },
+      {
+        "name": "07\u98ce\u9669\u53f0\u8d26",
+        "cells": 1743,
+        "formulas": 0
+      },
+      {
+        "name": "08\u9700\u6c42\u6c60",
+        "cells": 1743,
+        "formulas": 0
+      },
+      {
+        "name": "09\u9879\u76ee\u53f0\u8d26",
+        "cells": 1759,
+        "formulas": 0
+      },
+      {
+        "name": "10\u4efb\u52a1\u53f0\u8d26",
+        "cells": 1679,
+        "formulas": 0
+      },
+      {
+        "name": "11\u8fd0\u7ef4\u4e8b\u4ef6",
+        "cells": 224,
+        "formulas": 0
+      },
+      {
+        "name": "12\u53d8\u66f4\u8bb0\u5f55",
+        "cells": 757,
+        "formulas": 0
+      },
+      {
+        "name": "13\u4f9b\u5e94\u5546\u5408\u540c",
+        "cells": 1743,
+        "formulas": 0
+      },
+      {
+        "name": "14\u9884\u7b97\u8d39\u7528",
+        "cells": 3166,
+        "formulas": 0
+      },
+      {
+        "name": "15\u5907\u4efd\u6062\u590d",
+        "cells": 1759,
+        "formulas": 0
+      },
+      {
+        "name": "16\u51b3\u7b56\u8bb0\u5f55",
+        "cells": 1695,
+        "formulas": 0
+      },
+      {
+        "name": "17\u5468\u62a5",
+        "cells": 1631,
+        "formulas": 0
+      },
+      {
+        "name": "18\u6307\u6807\u8bb0\u5f55",
+        "cells": 224,
+        "formulas": 0
+      },
+      {
+        "name": "19\u586b\u5199\u793a\u4f8b",
+        "cells": 128,
+        "formulas": 0
+      }
+    ],
+    "formulas_evaluated": false
+  }
+}
